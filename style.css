@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  background-image: url('images/background.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 600px;
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 2rem;
+}
+
+.title {
+  font-family: 'Courgette', cursive;
+}
+
+.quote {
+  font-size: 1.7rem;
+}
+
+.author {
+  font-size: 2rem;
+  font-family: 'Courgette', cursive;
+}
+
+.title,
+.quote,
+.author {
+  padding-bottom: 3rem;
+}
+.button {
+  background-color: rgb(195, 57, 57);
+  color: white;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  border-radius: 1rem;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.button:hover {
+  transform: scale(1.1);
+}
+
+@media only screen and (width <= 567px) {
+  html {
+    font-size: 0.7rem;
+  }
+
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .item {
+    padding: 20px;
+  }
+}
