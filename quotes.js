@@ -1,42 +1,42 @@
 const quotes = [
   {
-    'Author': 'Albert Einstein',
-    'Quote': 'No poseo talentos especiales. Solo soy apasionadamente curioso.'
+    'Author': 'Elon Musk',
+    'Quote': 'I think it is possible for ordinary people to choose to be extraordinary.'
   },
   {
-    'Author': 'Anónimo',
-    'Quote': 'Semanas de programación te pueden ahorrar horas de planeación.'
+    'Author': 'Elon Musk',
+    'Quote': 'Life is too short for long-term grudges'
   },
   {
-    'Author': 'Alan Kay',
-    'Quote': 'La mejor forma de predecir el futuro es inventarlo.'
+    'Author': 'Bill Gates',
+    'Quote': 'Patience is a key element of success.'
   },
   {
-    'Author': 'Amelia Earhart',
-    'Quote': 'Lo más dificil es tomar la decisión de actuar. El resto es simplemente tenacidad.'
+    'Author': 'Bill Gates',
+    'Quote': 'Success is a lousy teacher. It seduces smart people into thinking they can’t lose.'
   },
   {
-    'Author': 'Aristotle',
-    'Quote': 'La calidad no es un acto, es un hábito.'
+    'Author': 'Jeff Bezos',
+    'Quote': 'I believe you have to be willing to be misunderstood if you re going to innovate'
   },
   {
-    'Author': 'Benjamin Franklin',
-    'Quote': 'Dímelo y lo olvidaré. Enséñamelo y lo recordaré. Involúcrame y lo aprenderé.'
+    'Author': 'Jeff Bezos',
+    'Quote': 'If you cant tolerate critics, dont do anything new or interesting.'
   },
   {
-    'Author': 'Charles R. Swindoll',
-    'Quote': 'La vida es 10% lo que te ocurre y 90% cómo reaccionas.'
+    'Author': 'Mark Zuckerberg',
+    'Quote': 'In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks.'
   },
   {
-    'Author': 'Jane Goodall',
-    'Quote': 'Lo que haces hace una diferencia. Y debes decidir si qué tipo de diferencia quieres hacer.'
+    'Author': 'Mark Zuckerberg',
+    'Quote': 'Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.'
   },
   {
-    'Author': 'John Muir',
-    'Quote': 'El poder de la imaginación nos hace infinitos.'
+    'Author': 'Sam Altman',
+    'Quote': 'Time is extremely limited and goes by fast. Do what makes you happy and fulfilled—few people get remembered hundreds of years after they die anyway.'
   },
   {
-    'Author': 'Mark Twain',
-    'Quote': 'Los dos días más importantes de tu vida son el día que naciste y el día que descubres por qué.'
+    'Author': 'Sam Altman',
+    'Quote': 'Dont worry about your competitors raising a lot of money, and what they may do in the future, they probably arent very good anyway.'
   }
 ];
